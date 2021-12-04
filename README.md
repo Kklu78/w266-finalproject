@@ -1,5 +1,13 @@
 # w266-finalproject
 
-https://docs.google.com/document/d/1vzTy5TL1sDgiDTWVilliGg70sJqRKOURDCoMCj5ub6M/edit
+Welcome to Our W266 Final Project Github
+by
+Spencer Song, Kevin Lu, and Chetan Munugala
 
-https://docs.google.com/document/d/1nevzV7PQxl8HYggINjVsSVLjCEqyzbbx6DqV3xM0Q5Q/edit
+We have provided all our BERT models under either the "Tagged Models" or "Untagged Models" directory. The models are implemented in .ipynb notebooks, but these notebooks must be run in Google Colab. For this reason, we also provide the links to the notebooks Google Colab below. 
+
+Bert Untagged Model : https://colab.research.google.com/drive/1RSBjxmmrIyEJtPQg1Kejf0GzFyd3BCmj?usp=sharing
+Bert Tagged Model : https://colab.research.google.com/drive/14SCWfhd4Bwx6bk-HAAXvagE9RTQ1gLMf?usp=sharing
+
+
+The "Error Analysis" folder contains intermediate csvs that we processed using our Error Analysis notebook (Error Analysis.ipynb). This notebook contains the code for all of our analysis of our models. 
