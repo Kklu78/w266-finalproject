@@ -1,7 +1,5 @@
 # Drug-Disease Relation Extraction with BERT(s)
 
-Welcome to Our W266 Final Project Github
-
 by
 Spencer Song, Kevin Lu, and Chetan Munugala
 
