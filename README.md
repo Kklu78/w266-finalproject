@@ -1,6 +1,7 @@
 # w266-finalproject
 
 Welcome to Our W266 Final Project Github
+
 by
 Spencer Song, Kevin Lu, and Chetan Munugala
 
